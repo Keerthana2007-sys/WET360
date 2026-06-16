@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-axios.defaults.baseURL = 'https://wet360.onrender.com';
+axios.defaults.baseURL = 'https://wet360.onrender.com/';
 import { 
   LayoutDashboard, Sparkles, Sprout, Droplets, Heart, HelpCircle, 
   Briefcase, BookOpen, Calendar, MessageSquare, Settings, Sun, 
